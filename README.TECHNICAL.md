@@ -116,96 +116,86 @@ Jupyter Notebook, Pandas, Python 3.11.4
 
 |&rarr; [./vacationsx.py](./vacationsx.py)
 
-|&rarr; [./WeatherPy.ipynb](./WeatherPy.ipynb)
+|&rarr; [./weather_constants.py](./weather_constants.py)
 
-|&rarr; [./WeatherPyAPIFunctions.py](./WeatherPyAPIFunctions.py)
+|&rarr; [./weather.ipynb](./weather.ipynb)
 
-|&rarr; [./WeatherPyAPIKeys.py](./WeatherPyAPIKeys.py)
+|&rarr; [./weatherx.py](./weatherx.py)
 
-|&rarr; [./WeatherPyConstants.py](./WeatherPyConstants.py)
+|&rarr; [./images/](./images/)
 
-|&rarr; [./WeatherPyFunctions.py](./WeatherPyFunctions.py)
+  &emsp; |&rarr; [./images/README.md](./images/README.md)
 
-|&rarr; [./Images/](./Images/)
+  &emsp; |&rarr; [./images/vacationsFigure13CityWeatherLocations.png](./images/vacationsFigure13CityWeatherLocations.png)
+  
+  &emsp; |&rarr; [./images/vacationsFigure24VacationLocations.png](./images/vacationsFigure24VacationLocations.png)
+  
+  &emsp; |&rarr; [./images/vacationsFigure34HotelLocations.png](./images/vacationsFigure34HotelLocations.png)
+  
+  &emsp; |&rarr; [./images/vacationsFigure44RestaurantLocations.png](./images/vacationsFigure44RestaurantLocations.png)
+  
+  &emsp; |&rarr; [./images/vacationsFigure54TourismAttractionLocations.png](./images/vacationsFigure54TourismAttractionLocations.png)
+  
+  &emsp; |&rarr; [./images/vacationsTable12CityWeatherInformation.png](./images/vacationsTable12CityWeatherInformation.png)
+  
+  &emsp; |&rarr; [./images/vacationsTable23VacationLocations.png](./images/vacationsTable23VacationLocations.png)
+  
+  &emsp; |&rarr; [./images/vacationsTable33HotelLocations.png](./images/vacationsTable33HotelLocations.png)
 
-  &emsp; |&rarr; [./Images/README.md](./Images/README.md)
+  &emsp; |&rarr; [./images/vacationsTable43RestaurantLocations.png](./images/vacationsTable43RestaurantLocations.png)
+  
+  &emsp; |&rarr; [./images/vacationsTable53TourismAttractionLocations.png](./images/vacationsTable53TourismAttractionLocations.png)
+  
+  &emsp; |&rarr; [./images/weatherFigure15CityWeatherLocations.png](./images/weatherFigure15CityWeatherLocations.png)
+  
+  &emsp; |&rarr; [./images/weatherFigure19ImportedCityWeatherLocations.png](./images/weatherFigure19ImportedCityWeatherLocations.png)
 
-  &emsp; |&rarr; [./Images/VacationPyFigure13CityWeatherLocations.png](./Images/VacationPyFigure13CityWeatherLocations.png)
-  
-  &emsp; |&rarr; [./Images/VacationPyFigure24VacationLocations.png](./Images/VacationPyFigure24VacationLocations.png)
-  
-  &emsp; |&rarr; [./Images/VacationPyFigure34HotelLocations.png](./Images/VacationPyFigure34HotelLocations.png)
-  
-  &emsp; |&rarr; [./Images/VacationPyFigure44RestaurantLocations.png](./Images/VacationPyFigure44RestaurantLocations.png)
-  
-  &emsp; |&rarr; [./Images/VacationPyFigure54TourismAttractionLocations.png](./Images/VacationPyFigure54TourismAttractionLocations.png)
-  
-  &emsp; |&rarr; [./Images/VacationPyTable12CityWeatherInformation.png](./Images/VacationPyTable12CityWeatherInformation.png)
-  
-  &emsp; |&rarr; [./Images/VacationPyTable23VacationLocations.png](./Images/VacationPyTable23VacationLocations.png)
-  
-  &emsp; |&rarr; [./Images/VacationPyTable33HotelLocations.png](./Images/VacationPyTable33HotelLocations.png)
-
-  &emsp; |&rarr; [./Images/VacationPyTable43RestaurantLocations.png](./Images/VacationPyTable43RestaurantLocations.png)
-  
-  &emsp; |&rarr; [./Images/VacationPyTable53TourismAttractionLocations.png](./Images/VacationPyTable53TourismAttractionLocations.png)
-  
-  &emsp; |&rarr; [./Images/WeatherPyFigure15CityWeatherLocations.png](./Images/WeatherPyFigure15CityWeatherLocations.png)
-  
-  &emsp; |&rarr; [./Images/WeatherPyFigure19ImportedCityWeatherLocations.png](./Images/WeatherPyFigure19ImportedCityWeatherLocations.png)
-
-  &emsp; |&rarr; [./Images/WeatherPyFigure22HumidityVsLatitudeScatterPlot.png](./Images/WeatherPyFigure22HumidityVsLatitudeScatterPlot.png)
+  &emsp; |&rarr; [./images/weatherFigure22HumidityVsLatitudeScatterPlot.png](./images/weatherFigure22HumidityVsLatitudeScatterPlot.png)
   
   &emsp; |&rarr; 
-[./Images/WeatherPyFigure23CloudinessVsLatitudeScatterPlot.png](./Images/WeatherPyFigure23CloudinessVsLatitudeScatterPlot.png)
+[./images/weatherFigure23CloudinessVsLatitudeScatterPlot.png](./images/weatherFigure23CloudinessVsLatitudeScatterPlot.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure24WindSpeedvsLatitudeScatterPlot.png](./Images/WeatherPyFigure24WindSpeedvsLatitudeScatterPlot.png)
+  &emsp; |&rarr; [./images/weatherFigure24WindSpeedvsLatitudeScatterPlot.png](./images/weatherFigure24WindSpeedvsLatitudeScatterPlot.png)
   
-  &emsp; |&rarr; [./Images/WeatherPyFigure31CityWeatherLocationsNorthernHemisphere.png](./Images/WeatherPyFigure31CityWeatherLocationsNorthernHemisphere.png)
+  &emsp; |&rarr; [./images/weatherFigure31CityWeatherLocationsNorthernHemisphere.png](./images/weatherFigure31CityWeatherLocationsNorthernHemisphere.png)
   
-  &emsp; |&rarr; [./Images/WeatherPyFigure32CityWeatherLocationsSouthernHemisphere.png](./Images/WeatherPyFigure32CityWeatherLocationsSouthernHemisphere.png)
+  &emsp; |&rarr; [./images/weatherFigure32CityWeatherLocationsSouthernHemisphere.png](./images/weatherFigure32CityWeatherLocationsSouthernHemisphere.png)
   
-  &emsp; |&rarr; [./Images/WeatherPyFigure211TemperatureVsLatitudeScatterPlot.png](./Images/WeatherPyFigure211TemperatureVsLatitudeScatterPlot.png)
+  &emsp; |&rarr; [./images/weatherFigure211TemperatureVsLatitudeScatterPlot.png](./images/weatherFigure211TemperatureVsLatitudeScatterPlot.png)
   
-  &emsp; |&rarr; [./Images/WeatherPyFigure212TemperatureVsLatitudeScatterPlotwRegression.png](./Images/WeatherPyFigure212TemperatureVsLatitudeScatterPlotwRegression.png)
+  &emsp; |&rarr; [./images/weatherFigure212TemperatureVsLatitudeScatterPlotwRegression.png](./images/weatherFigure212TemperatureVsLatitudeScatterPlotwRegression.png)
   
-  &emsp; |&rarr; [./Images/WeatherPyFigure331TemperaturevsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure331TemperaturevsLatitudeNorthernHemisphere.png)
+  &emsp; |&rarr; [./images/weatherFigure331TemperaturevsLatitudeNorthernHemisphere.png](./images/weatherFigure331TemperaturevsLatitudeNorthernHemisphere.png)
   
-  &emsp; |&rarr; [./Images/WeatherPyFigure332TemperaturevsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure332TemperaturevsLatitudeSouthernHemisphere.png)
+  &emsp; |&rarr; [./images/weatherFigure332TemperaturevsLatitudeSouthernHemisphere.png](./images/weatherFigure332TemperaturevsLatitudeSouthernHemisphere.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure341HumidityvsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure341HumidityvsLatitudeNorthernHemisphere.png)
+  &emsp; |&rarr; [./images/weatherFigure341HumidityvsLatitudeNorthernHemisphere.png](./images/weatherFigure341HumidityvsLatitudeNorthernHemisphere.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure342HumidityvsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure342HumidityvsLatitudeSouthernHemisphere.png)
+  &emsp; |&rarr; [./images/weatherFigure342HumidityvsLatitudeSouthernHemisphere.png](./images/weatherFigure342HumidityvsLatitudeSouthernHemisphere.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure351CloudinessvsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure351CloudinessvsLatitudeNorthernHemisphere.png)
+  &emsp; |&rarr; [./images/weatherFigure351CloudinessvsLatitudeNorthernHemisphere.png](./images/weatherFigure351CloudinessvsLatitudeNorthernHemisphere.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure352CloudinessvsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure352CloudinessvsLatitudeSouthernHemisphere.png)
+  &emsp; |&rarr; [./images/weatherFigure352CloudinessvsLatitudeSouthernHemisphere.png](./images/weatherFigure352CloudinessvsLatitudeSouthernHemisphere.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure361WindSpeedvsLatitudeNorthernHemisphere.png](./Images/WeatherPyFigure361WindSpeedvsLatitudeNorthernHemisphere.png)
+  &emsp; |&rarr; [./images/weatherFigure361WindSpeedvsLatitudeNorthernHemisphere.png](./images/weatherFigure361WindSpeedvsLatitudeNorthernHemisphere.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyFigure362WindSpeedvsLatitudeSouthernHemisphere.png](./Images/WeatherPyFigure362WindSpeedvsLatitudeSouthernHemisphere.png)
+  &emsp; |&rarr; [./images/weatherFigure362WindSpeedvsLatitudeSouthernHemisphere.png](./images/weatherFigure362WindSpeedvsLatitudeSouthernHemisphere.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyTable14CityWeatherInformation.png](./Images/WeatherPyTable14CityWeatherInformation.png)
+  &emsp; |&rarr; [./images/weatherTable14CityWeatherInformation.png](./images/weatherTable14CityWeatherInformation.png)
 
-  &emsp; |&rarr; [./Images/WeatherPyTable18ImportedCityWeatherInformation.png](./Images/WeatherPyTable18ImportedCityWeatherInformation.png)
+  &emsp; |&rarr; [./images/weatherTable18ImportedCityWeatherInformation.png](./images/weatherTable18ImportedCityWeatherInformation.png)
 
-|&rarr; [./Logs/](./Logs/)
+|&rarr; [./logs/](./logs/)
 
-  &emsp; |&rarr; [./Logs/20231001VacationPyDebug.txt](./Logs/20231001VacationPyDebug.txt)
+  &emsp; |&rarr; [./logs/20240420vacations_log.txt](./logs/20240420vacations_log.txt)
 
-  &emsp; |&rarr; [./Logs/20231001VacationPyLog.txt](./Logs/20231001VacationPyLog.txt)
+  &emsp; |&rarr; [./logs/20240420weather_log.txt](./logs/20240420weather_log.txt)
 
-  &emsp; |&rarr; [./Logs/20231001WeatherPyDebug.txt](./Logs/20231001WeatherPyDebug.txt)
+|&rarr; [./resources/](./resources/)
 
-  &emsp; |&rarr; [./Logs/20231001WeatherPyLog.txt](./Logs/20231001WeatherPyLog.txt)
+  &emsp; |&rarr; [./resources/cities_weather.csv](./resources/cities_weather.csv)
 
-  &emsp; |&rarr; [./Logs/README.md](./Logs/README.md)
-
-|&rarr; [./Resources/](./Resources/)
-
-  &emsp; |&rarr; [./Resources/CitiesWeather.csv](./Resources/CitiesWeather.csv)
-
-  &emsp; |&rarr; [./Resources/README.md](./Resources/README.md)
+  &emsp; |&rarr; [./resources/README.md](./resources/README.md)
 
 ----
 
@@ -227,4 +217,4 @@ Jupyter Notebook, Pandas, Python 3.11.4
 
 ### Copyright
 
-N. James George © 2023. All Rights Reserved.
+Nicholas J. George © 2023. All Rights Reserved.
