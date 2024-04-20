@@ -32,29 +32,31 @@ python3 -m pip install citypy
 
 ----
 
-The IPython notebook, WeatherPy.ipynb, generates the CSV file, CitiesWeather.csv, which acts as input to VacationPy.ipynb.  These IPython Notebooks must have the following Python scripts in the same folder with it:
+The IPython notebook, weather.ipynb, generates the CSV file, cities_weather.csv, which acts as input to vacations.ipynb.  These IPython Notebooks must have the following Python scripts in the same folder with it:
 
-PyConstants.py
+logx_constants.py
 
-PyFunctions.py
+logx.py
 
-PyLogConstants.py
+mathx.py
 
-PyLogFunctions.py
+matplotlibx.py
 
-PySubroutines.py
+pandasx_constants.py
 
-WeatherPyAPIFunctions.py
+pandasx.py
 
-WeatherPyAPIKeys.py
+vacationsx.py
 
-WeatherPyConstants.py
+weather_api_keys.py
 
-WeatherPyFunctions.py
+weather_constants.py
 
-If the folders, Resources, Logs, and Images are not present, an IPython notebook will create them.  The Resources folder contains the output file from WeatherPy.ipynb, CitiesWeather.csv, which is the input file for VacationPy.ipynb; the Logs folder contains debug and log files from testing the IPython Notebooks; and the Images folder has the PNG image files of the IPython Notebooks' tables and plots.
+weatherx.py
 
-To place the IPython notebook in Log Mode, Debug Mode, or Image Mode set the parameter for the appropriate subroutine in coding cell #2 to True. In Debug Mode, the program displays the debug information and writes it to a debug file in the Logs folder; the same is true in Log Mode for log information sent to a log file. If the program is in Log Mode but NOT Debug Mode, it displays no debug information, but writes that information to the log file. If the program is in Image Mode, it writes all DataFrames, hvplot maps, and matplotlib plots to PNG files in the Images Folder.
+If the folders, logs and images, are not present, an IPython notebook will create them.  The folder, resources, contains the output file from weather.ipynb, cities_weather.csv, which is the input file for vacations.ipynb; the folder, logs, contains log files from testing the IPython Notebooks; and the folder, images, has the PNG and HTML files of the IPython Notebooks' tables and plots.
+
+To place the IPython notebook in Log Mode or Image Mode set the parameter for the appropriate subroutine in coding cell #2 to True. If the program is in Log Mode, it writes log information to files in the folder, logs. If the program is in Image Mode, it writes all dataframes, hvplot maps, and matplotlib plots to PNG files in the folder, images.
 
 ----
 
@@ -64,15 +66,15 @@ To place the IPython notebook in Log Mode, Debug Mode, or Image Mode set the par
 
 #### Source code
 
-WeatherPy.ipynb, VacationPy.ipynb, PyConstants.py, PyFunctions.py, PyLogConstants.py, PyLogFunctions.py, PySubroutines.py, WeatherPyAPIFunctions.py, WeatherPyAPIKeys.py, WeatherPyConstants.py, WeatherPyFunctions.py
+weather.ipynb, vacations.ipynb, logx_constants.py, logx.py, mathx.py, matplotlibx.py, pandasx_constants.py, pandasx.py, vacationsx.py, weather_api_keys.py, weather_constants.py, weatherx.py
 
 #### Input files
 
-CitiesWeather.csv (VacationPy.ipynb)
+cities_weather.csv (vacations.ipynb)
 
 #### Output files
 
-CitiesWeather.csv (WeatherPy.ipynb)
+cities_weather.csv (weather.ipynb)
 
 #### SQL script
 
@@ -92,27 +94,27 @@ Jupyter Notebook, Pandas, Python 3.11.4
 
 #### main branch 
 
-|&rarr; [./PyConstants.py](./PyConstants.py)
+|&rarr; [./logx_constants.py](./logx_constants.py)
 
-|&rarr; [./PyFunctions.py](./PyFunctions.py)
+|&rarr; [./logx.py](./logx.py)
 
-|&rarr; [./PyLogConstants.py](./PyLogConstants.py)
+|&rarr; [./mathx.py](./mathx.py)
 
-|&rarr; [./PyLogFunctions.py](./PyLogFunctions.py)
+|&rarr; [./matplotlibx.py](./matplotlibx.py)
 
-|&rarr; [./PyLogSubRoutines.py](./PyLogSubRoutines.py)
+|&rarr; [./pandasx_constants.py](./pandasx_constants.py)
 
-|&rarr; [./PySubRoutines.py](./PySubRoutines.py)
+|&rarr; [./pandasx.py](./pandasx.py)
 
 |&rarr; [./README.md](./README.md)
 
 |&rarr; [./README.TECHNICAL.md](./README.TECHNICAL.md)
 
-|&rarr; [./Table-Of-Contents-WVFVFA.md](./Table-Of-Contents-WVFVFA.md)
+|&rarr; [./table-of-contents.md](./table-of-contents.md)
 
-|&rarr; [./VacationPy.ipynb](./VacationPy.ipynb)
+|&rarr; [./vacations.ipynb](./vacations.ipynb)
 
-|&rarr; [./VacationPySubRoutines.py](./VacationPySubRoutines.py)
+|&rarr; [./vacationsx.py](./vacationsx.py)
 
 |&rarr; [./WeatherPy.ipynb](./WeatherPy.ipynb)
 
