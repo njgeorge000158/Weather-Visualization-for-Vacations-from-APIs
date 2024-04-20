@@ -1,0 +1,365 @@
+
+Timepoint: 2024/04/20 14:32:28
+Program execution begins...
+
+
+
+
+                                city  latitude  longitude  temperature  \
+city_id                                                                  
+0                          kalianget   -7.0500   113.9333        81.90   
+1        edinburgh of the seven seas  -37.0676   -12.3116        57.92   
+2                phan rang-thap cham   11.5667   108.9833        75.70   
+3                              tiksi   71.6872   128.8694        17.40   
+4                          adamstown  -25.0660  -130.1015        72.37   
+...                              ...       ...        ...          ...   
+437                            hotan   37.0997    79.9269        62.38   
+438              san luis de la loma   17.2706  -100.8939        86.09   
+439                      znamenskoye   57.1281    73.8282        45.90   
+440                  coronel dorrego  -38.7187   -61.2873        59.85   
+441                            qamdo   31.1667    97.2333        34.83   
+
+         humidity  cloudiness  wind_speed country            date_time  
+city_id                                                                 
+0              83         100        8.84      ID  2024-04-20 13:40:57  
+1              69         100        6.96      SH  2024-04-20 13:39:09  
+2              91          13        2.80      VN  2024-04-20 13:40:58  
+3              90          50        5.84      RU  2024-04-20 13:39:08  
+4              75           0       24.05      PN  2024-04-20 13:39:13  
+...           ...         ...         ...     ...                  ...  
+437            31          92        5.17      CN  2024-04-20 13:39:47  
+438            46           5       11.70      MX  2024-04-20 13:42:10  
+439            97          92        4.03      RU  2024-04-20 13:42:10  
+440            59         100        9.86      AR  2024-04-20 13:42:10  
+441            58          52        2.77      CN  2024-04-20 13:42:11  
+
+[442 rows x 9 columns]
+
+
+
+                    city  latitude  longitude  temperature  humidity  \
+0                 laguna   38.4210  -121.4238        75.94        55   
+1              kununurra  -15.7667   128.7333        73.38        40   
+2       salto del guaira  -24.0625   -54.3069        73.62        59   
+3        arraial do cabo  -22.9661   -42.0278        76.86        36   
+4        dzilam gonzalez   21.2833   -88.9333        90.64        45   
+5                   tura   25.5198    90.2201        76.32        51   
+6  coahuayana de hidalgo   18.7000  -103.6583        86.58        45   
+7             marsa alam   25.0757    34.8918        77.49        41   
+8                 ixtapa   20.7000  -105.2000        79.83        54   
+
+   cloudiness  wind_speed country            date_time  
+0           0        5.75      US  2024-04-20 13:39:53  
+1          10        6.91      AU  2024-04-20 13:41:06  
+2           0        4.09      PY  2024-04-20 13:41:20  
+3           0        6.91      BR  2024-04-20 13:39:18  
+4          10        8.48      MX  2024-04-20 13:41:27  
+5           2        7.07      IN  2024-04-20 13:39:33  
+6           8        7.78      MX  2024-04-20 13:39:49  
+7           0        5.35      EG  2024-04-20 13:42:00  
+8           0        9.22      MX  2024-04-20 13:42:10  
+
+
+
+                    city  latitude  longitude  temperature  humidity  \
+0                 laguna   38.4210  -121.4238        75.94        55   
+1              kununurra  -15.7667   128.7333        73.38        40   
+2       salto del guaira  -24.0625   -54.3069        73.62        59   
+3        arraial do cabo  -22.9661   -42.0278        76.86        36   
+4        dzilam gonzalez   21.2833   -88.9333        90.64        45   
+5                   tura   25.5198    90.2201        76.32        51   
+6  coahuayana de hidalgo   18.7000  -103.6583        86.58        45   
+7             marsa alam   25.0757    34.8918        77.49        41   
+8                 ixtapa   20.7000  -105.2000        79.83        54   
+
+   cloudiness  wind_speed country            date_time hotel_name  
+0           0        5.75      US  2024-04-20 13:39:53        NaN  
+1          10        6.91      AU  2024-04-20 13:41:06        NaN  
+2           0        4.09      PY  2024-04-20 13:41:20        NaN  
+3           0        6.91      BR  2024-04-20 13:39:18        NaN  
+4          10        8.48      MX  2024-04-20 13:41:27        NaN  
+5           2        7.07      IN  2024-04-20 13:39:33        NaN  
+6           8        7.78      MX  2024-04-20 13:39:49        NaN  
+7           0        5.35      EG  2024-04-20 13:42:00        NaN  
+8           0        9.22      MX  2024-04-20 13:42:10        NaN  
+
+
+Timepoint: 2024/04/20 14:32:31
+STARTING HOTEL SEARCH...
+
+
+
+
+Timepoint: 2024/04/20 14:32:32
+Located the following hotel...Holiday Inn Express & Suites in laguna, US
+
+
+
+
+Timepoint: 2024/04/20 14:32:33
+Located the following hotel...Kununurra Country Club Resort in kununurra, AU
+
+
+
+
+Timepoint: 2024/04/20 14:32:34
+Located the following hotel...Tower’s in laguna, US
+
+
+
+
+Timepoint: 2024/04/20 14:32:35
+Located the following hotel...Hotel Pousada Varandas ao Mar in kununurra, AU
+
+
+
+
+Timepoint: 2024/04/20 14:32:36
+Located the following hotel...Hotel Polo Orchid in laguna, US
+
+
+
+
+Timepoint: 2024/04/20 14:32:38
+Located the following hotel...Blue House Hotel in laguna, US
+
+
+
+
+Timepoint: 2024/04/20 14:32:39
+Located the following hotel...Ma. Cristina in laguna, US
+
+
+
+
+Timepoint: 2024/04/20 14:32:39
+HOTEL SEARCH COMPLETE...
+
+
+
+
+
+               city  latitude  longitude  temperature  humidity  cloudiness  \
+0            laguna   38.4210  -121.4238        75.94        55           0   
+1         kununurra  -15.7667   128.7333        73.38        40          10   
+2  salto del guaira  -24.0625   -54.3069        73.62        59           0   
+3   arraial do cabo  -22.9661   -42.0278        76.86        36           0   
+4              tura   25.5198    90.2201        76.32        51           2   
+5        marsa alam   25.0757    34.8918        77.49        41           0   
+6            ixtapa   20.7000  -105.2000        79.83        54           0   
+
+   wind_speed country            date_time                     hotel_name  
+0        5.75      US  2024-04-20 13:39:53   Holiday Inn Express & Suites  
+1        6.91      AU  2024-04-20 13:41:06  Kununurra Country Club Resort  
+2        4.09      PY  2024-04-20 13:41:20                        Tower’s  
+3        6.91      BR  2024-04-20 13:39:18  Hotel Pousada Varandas ao Mar  
+4        7.07      IN  2024-04-20 13:39:33              Hotel Polo Orchid  
+5        5.35      EG  2024-04-20 13:42:00               Blue House Hotel  
+6        9.22      MX  2024-04-20 13:42:10                   Ma. Cristina  
+
+
+
+               city  latitude  longitude  temperature  humidity  cloudiness  \
+0            laguna   38.4210  -121.4238        75.94        55           0   
+1         kununurra  -15.7667   128.7333        73.38        40          10   
+2  salto del guaira  -24.0625   -54.3069        73.62        59           0   
+3   arraial do cabo  -22.9661   -42.0278        76.86        36           0   
+4              tura   25.5198    90.2201        76.32        51           2   
+5        marsa alam   25.0757    34.8918        77.49        41           0   
+6            ixtapa   20.7000  -105.2000        79.83        54           0   
+
+   wind_speed country            date_time                     hotel_name  \
+0        5.75      US  2024-04-20 13:39:53   Holiday Inn Express & Suites   
+1        6.91      AU  2024-04-20 13:41:06  Kununurra Country Club Resort   
+2        4.09      PY  2024-04-20 13:41:20                        Tower’s   
+3        6.91      BR  2024-04-20 13:39:18  Hotel Pousada Varandas ao Mar   
+4        7.07      IN  2024-04-20 13:39:33              Hotel Polo Orchid   
+5        5.35      EG  2024-04-20 13:42:00               Blue House Hotel   
+6        9.22      MX  2024-04-20 13:42:10                   Ma. Cristina   
+
+  restaurant_name  
+0             NaN  
+1             NaN  
+2             NaN  
+3             NaN  
+4             NaN  
+5             NaN  
+6             NaN  
+
+
+Timepoint: 2024/04/20 14:32:40
+STARTING RESTAURANT SEARCH...
+
+
+
+
+Timepoint: 2024/04/20 14:32:41
+Located the following restaurant...Chicago Fire in laguna, US
+
+
+
+
+Timepoint: 2024/04/20 14:32:42
+Located the following restaurant...Ivanhoe Café in laguna, US
+
+
+
+
+Timepoint: 2024/04/20 14:32:43
+Located the following restaurant...Papagaio in laguna, US
+
+
+
+
+Timepoint: 2024/04/20 14:32:44
+Located the following restaurant...Restaurante Água na Boca in laguna, US
+
+
+
+
+Timepoint: 2024/04/20 14:32:45
+Located the following restaurant...Food Park Restaurent in laguna, US
+
+
+
+
+Timepoint: 2024/04/20 14:32:46
+Located the following restaurant...Marsa Fish in laguna, US
+
+
+
+
+Timepoint: 2024/04/20 14:32:47
+Located the following restaurant...Mariscos Valentino's in kununurra, AU
+
+
+
+
+Timepoint: 2024/04/20 14:32:47
+RESTAURANT SEARCH COMPLETE...
+
+
+
+
+
+               city  latitude  longitude  temperature  humidity  cloudiness  \
+0            laguna   38.4210  -121.4238        75.94        55           0   
+1         kununurra  -15.7667   128.7333        73.38        40          10   
+2  salto del guaira  -24.0625   -54.3069        73.62        59           0   
+3   arraial do cabo  -22.9661   -42.0278        76.86        36           0   
+4              tura   25.5198    90.2201        76.32        51           2   
+5        marsa alam   25.0757    34.8918        77.49        41           0   
+6            ixtapa   20.7000  -105.2000        79.83        54           0   
+
+   wind_speed country            date_time                     hotel_name  \
+0        5.75      US  2024-04-20 13:39:53   Holiday Inn Express & Suites   
+1        6.91      AU  2024-04-20 13:41:06  Kununurra Country Club Resort   
+2        4.09      PY  2024-04-20 13:41:20                        Tower’s   
+3        6.91      BR  2024-04-20 13:39:18  Hotel Pousada Varandas ao Mar   
+4        7.07      IN  2024-04-20 13:39:33              Hotel Polo Orchid   
+5        5.35      EG  2024-04-20 13:42:00               Blue House Hotel   
+6        9.22      MX  2024-04-20 13:42:10                   Ma. Cristina   
+
+            restaurant_name  
+0              Chicago Fire  
+1              Ivanhoe Café  
+2                  Papagaio  
+3  Restaurante Água na Boca  
+4      Food Park Restaurent  
+5                Marsa Fish  
+6      Mariscos Valentino's  
+
+
+
+               city  latitude  longitude  temperature  humidity  cloudiness  \
+0            laguna   38.4210  -121.4238        75.94        55           0   
+1         kununurra  -15.7667   128.7333        73.38        40          10   
+2  salto del guaira  -24.0625   -54.3069        73.62        59           0   
+3   arraial do cabo  -22.9661   -42.0278        76.86        36           0   
+4              tura   25.5198    90.2201        76.32        51           2   
+5        marsa alam   25.0757    34.8918        77.49        41           0   
+6            ixtapa   20.7000  -105.2000        79.83        54           0   
+
+   wind_speed country            date_time                     hotel_name  \
+0        5.75      US  2024-04-20 13:39:53   Holiday Inn Express & Suites   
+1        6.91      AU  2024-04-20 13:41:06  Kununurra Country Club Resort   
+2        4.09      PY  2024-04-20 13:41:20                        Tower’s   
+3        6.91      BR  2024-04-20 13:39:18  Hotel Pousada Varandas ao Mar   
+4        7.07      IN  2024-04-20 13:39:33              Hotel Polo Orchid   
+5        5.35      EG  2024-04-20 13:42:00               Blue House Hotel   
+6        9.22      MX  2024-04-20 13:42:10                   Ma. Cristina   
+
+            restaurant_name tourist_attraction  
+0              Chicago Fire                NaN  
+1              Ivanhoe Café                NaN  
+2                  Papagaio                NaN  
+3  Restaurante Água na Boca                NaN  
+4      Food Park Restaurent                NaN  
+5                Marsa Fish                NaN  
+6      Mariscos Valentino's                NaN  
+
+
+Timepoint: 2024/04/20 14:32:48
+STARTING TOURISM ATTRACTION SEARCH...
+
+
+
+
+Timepoint: 2024/04/20 14:32:49
+Located the following tourism attraction...Steampunk Art in laguna, US
+
+
+
+
+Timepoint: 2024/04/20 14:32:50
+Located the following tourism attraction...Kellys Knob in tura, IN
+
+
+
+
+Timepoint: 2024/04/20 14:32:52
+Located the following tourism attraction...Trilha Praia do Forno in laguna, US
+
+
+
+
+Timepoint: 2024/04/20 14:32:53
+Located the following tourism attraction...Shaab Marsa Alam in laguna, US
+
+
+
+
+Timepoint: 2024/04/20 14:32:54
+Located the following tourism attraction...Espiral de piedra in kununurra, AU
+
+
+
+
+Timepoint: 2024/04/20 14:32:54
+TOURISM ATTRACTION SEARCH COMPLETE...
+
+
+
+
+
+              city  latitude  longitude  temperature  humidity  cloudiness  \
+0           laguna   38.4210  -121.4238        75.94        55           0   
+1        kununurra  -15.7667   128.7333        73.38        40          10   
+2  arraial do cabo  -22.9661   -42.0278        76.86        36           0   
+3       marsa alam   25.0757    34.8918        77.49        41           0   
+4           ixtapa   20.7000  -105.2000        79.83        54           0   
+
+   wind_speed country            date_time                     hotel_name  \
+0        5.75      US  2024-04-20 13:39:53   Holiday Inn Express & Suites   
+1        6.91      AU  2024-04-20 13:41:06  Kununurra Country Club Resort   
+2        6.91      BR  2024-04-20 13:39:18  Hotel Pousada Varandas ao Mar   
+3        5.35      EG  2024-04-20 13:42:00               Blue House Hotel   
+4        9.22      MX  2024-04-20 13:42:10                   Ma. Cristina   
+
+            restaurant_name     tourist_attraction  
+0              Chicago Fire          Steampunk Art  
+1              Ivanhoe Café            Kellys Knob  
+2  Restaurante Água na Boca  Trilha Praia do Forno  
+3                Marsa Fish       Shaab Marsa Alam  
+4      Mariscos Valentino's      Espiral de piedra  
+
