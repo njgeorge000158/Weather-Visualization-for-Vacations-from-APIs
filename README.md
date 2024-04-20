@@ -8,7 +8,7 @@
 
 ----
 
-The IPython notebook, weather.ipynb, visualizes the weather of over 500 cities around the globe and writes the results to a CSV file, cities_weather.csv, in the folder, resources. The CSV file then becomes the input file for the IPython notebook, vacations.ipynb, that uses the data to find ideal vacation spots.
+The IPython notebook, weather.ipynb, visualizes the weather of over 500 cities around the globe and writes the results to a CSV file, cities_weather.csv, in the folder, resources. The CSV file then becomes the input file for the IPython notebook, vacations.ipynb, that uses the data and specified weather conditions to find ideal vacation spots.
 
 ----
 
