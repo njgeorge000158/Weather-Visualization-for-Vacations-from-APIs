@@ -134,7 +134,7 @@ Jupyter Notebook, Pandas, Python 3.11.4
   
   &emsp; |&rarr; [./images/vacationsFigure44RestaurantLocations.html](./images/vacationsFigure44RestaurantLocations.html)
   
-  &emsp; |&rarr; [./images/vacationsFigure54TourismAttractionLocations.html](./images/vacationsFigure54TourismAttractionLocations.html)
+  &emsp; |&rarr; [./images/vacationsFigure54TouristAttractionLocations.html](./images/vacationsFigure54TourismAttractionLocations.html)
   
   &emsp; |&rarr; [./images/vacationsTable12CityWeatherInformation.png](./images/vacationsTable12CityWeatherInformation.png)
   
@@ -144,7 +144,7 @@ Jupyter Notebook, Pandas, Python 3.11.4
 
   &emsp; |&rarr; [./images/vacationsTable43RestaurantLocations.png](./images/vacationsTable43RestaurantLocations.png)
   
-  &emsp; |&rarr; [./images/vacationsTable53TourismAttractionLocations.png](./images/vacationsTable53TourismAttractionLocations.png)
+  &emsp; |&rarr; [./images/vacationsTable53TouristAttractionLocations.png](./images/vacationsTable53TourismAttractionLocations.png)
   
   &emsp; |&rarr; [./images/weatherFigure15CityWeatherLocations.html](./images/weatherFigure15CityWeatherLocations.html)
   
