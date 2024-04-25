@@ -29,16 +29,16 @@ CONSTANT_LOCAL_FILE_NAME = 'pandasx_constants.py'
 # In[3]:
 
 
-# This is a global constant for setting coefficient precision for equations.
 EQUATION_COEFFICIENT_PRECISION = 4
 
 
-# These constants are generic formats for Strings.
 GENERAL_TEXT_FORMAT = '{:}'
 
 INTEGER_FORMAT = '{:,}'
 
 FLOAT_FORMAT = '{:,.2f}'
+
+PERCENT_FORMAT = '{:,.2%}'
 
 FLOAT_AS_INTEGER_FORMAT = '{:,.0f}'
 

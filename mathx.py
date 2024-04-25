@@ -277,20 +277,20 @@ def is_perfect_square(positive_integer):
         return True
 
     
-    x = positive_integer // 2
+    x_integer = positive_integer // 2
     
-    seen = set([x])
+    seen = set([x_integer])
 
     
-    while x * x != positive_integer:
+    while x_integer * x_integer != positive_integer:
     
-        x = (x + (positive_integer // x)) // 2
+        x_integer = (x_integer + (positive_integer // x_integer)) // 2
     
-        if x in seen: 
+        if x_integer in seen: 
             
             return False
     
-        seen.add(x)
+        seen.add(x_integer)
 
     
     return True
@@ -334,20 +334,26 @@ def calculate_closest_factors(positive_integer):
         return [0, 0]
 
     
-    a, b, i = 1, positive_integer, 0
-    
-    while a < b:
-        
-        i += 1
-        
-        if positive_integer % i == 0:
-            
-            a = i
-            
-            b = positive_integer // a
+    a_integer, b_integer, i_integer = 1, positive_integer, 0
 
     
-    return [b, a]
+    while a_integer < b_integer:
+        
+        i_integer += 1
+        
+        if positive_integer % i_integer == 0:
+            
+            a_integer = i_integer
+            
+            b_integer = positive_integer // a_integer
+
+    
+    if positive_integer > 2 and a_integer > b_integer:
+
+        a_integer, b_integer = b_integer, a_integer
+
+    
+    return [b_integer, a_integer]
 
 
 # In[ ]:
