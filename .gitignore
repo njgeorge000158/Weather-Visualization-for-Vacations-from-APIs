@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+logx_constants.py
+logx.py
+mathx.py
+matplotlibx.py
+pandasx_constants.py
+pandasx.py
+
 # API keys
 weather_api_keys.py
 
