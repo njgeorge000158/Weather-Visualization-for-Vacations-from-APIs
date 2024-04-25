@@ -12,6 +12,7 @@ mathx.py
 matplotlibx.py
 pandasx_constants.py
 pandasx.py
+weather_api_keys.py
 
 # API keys
 weather_api_keys.py
