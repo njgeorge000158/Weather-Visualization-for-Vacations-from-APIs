@@ -18,36 +18,69 @@
 > ## <br> **1.9: Display Imported City Weather Locations**
 # <br><br> **Section 2: Scatter Plots**
 > ## <br>**2.1: Temperature vs. Latitude**
->> ### **Scatter Plot**
->> ### **Scatter Plot w/Regression**
 > ## <br> **2.2: Humidity vs. Latitude**
 > ## <br> **2.3: Cloudiness vs. Latitude**
 > ## <br> **2.4: Wind Speed vs. Latitude**
 > ## <br> **2.5: City Weather Data Set Correlation Matrix**
-#  <br><br> **Section 3: Scatter Plots w/Linear Regression (Hemispheres)**
+#  <br><br> **Section 3: City Weather Data By Hemisphere**
 > ## <br> **3.1: City Weather Data Set (Northern Hemisphere)**
 >> ### **Display City Weather Data Set (Northern Hemisphere)**
 >> ### **Display City Weather Locations (Northern Hemisphere)**
 > ## <br> **3.2: City Weather Data Set (Southern Hemisphere)**
 >> ### **Display City Weather Data Set (Southern Hemisphere)**
 >> ### **Display City Weather Locations (Southern Hemisphere)**
-> ## <br> **3.3: Temperature vs. Latitude**
->> ### Display Temperature vs. Latitude (Northern Hemisphere)
->> ### Display Temperature vs. Latitude (Southern Hemisphere)
-> ## <br> **3.4: Humidity vs. Latitude**
+> ## <br> **3.3: City Weather Data Set (Eastern Hemisphere)**
+>> ### **Display City Weather Data Set (Eastern Hemisphere)**
+>> ### **Display City Weather Locations (Eastern Hemisphere)**
+> ## <br> **3.4: City Weather Data Set (Western Hemisphere)**
+>> ### **Display City Weather Data Set (Western Hemisphere)**
+>> ### **Display City Weather Locations (Western Hemisphere)**
+#  <br><br> **Section 4: Scatter Plots w/Linear Regression by Latitude**
+> ## <br> **4.1: Temperature vs. Latitude**
+>> ### **Display Temperature vs. Latitude (Northern Hemisphere)**
+>> ### **Display Temperature vs. Latitude (Southern Hemisphere)**
+>> ### **Display Temperature vs. Latitude (Eastern Hemisphere)**
+>> ### **Display Temperature vs. Latitude (Western Hemisphere)**
+> ## <br> **4.2: Humidity vs. Latitude**
 >> ### **Display Humidity vs. Latitude (Northern Hemisphere)**
 >> ### **Display Humidity vs. Latitude (Southern Hemisphere)**
-> ## <br> **3.5: Cloudiness vs. Latitude**
+>> ### **Display Humidity vs. Latitude (Eastern Hemisphere)**
+>> ### **Display Humidity vs. Latitude (Western Hemisphere)**
+> ## <br> **4.3: Cloudiness vs. Latitude**
 >> ### **Display Cloudiness vs. Latitude (Northern Hemisphere)**
 >> ### **Display Cloudiness vs. Latitude (Southern Hemisphere)**
-> ## <br> **3.6: Wind Speed vs. Latitude**
+>> ### **Display Cloudiness vs. Latitude (Eastern Hemisphere)**
+>> ### **Display Cloudiness vs. Latitude (Western Hemisphere)**
+> ## <br> **4.4: Wind Speed vs. Latitude**
 >> ### **Display Wind Speed vs. Latitude (Northern Hemisphere)**
 >> ### **Display Wind Speed vs. Latitude (Southern Hemisphere)**
-
+>> ### **Display Wind Speed vs. Latitude (Eastern Hemisphere)**
+>> ### **Display Wind Speed vs. Latitude (Western Hemisphere)**
+#  <br><br> **Section 5: Scatter Plots w/Linear Regression by Longitude**
+> ## <br> **5.1: Temperature vs. Longitude**
+>> ### **Display Temperature vs. Longitude (Northern Hemisphere)**
+>> ### **Display Temperature vs. Longitude (Southern Hemisphere)**
+>> ### **Display Temperature vs. Longitude (Eastern Hemisphere)**
+>> ### **Display Temperature vs. Longitude (Western Hemisphere)**
+> ## <br> **5.2: Humidity vs. Longitude**
+>> ### **Display Humidity vs. Longitude (Northern Hemisphere)**
+>> ### **Display Humidity vs. Longitude (Southern Hemisphere)**
+>> ### **Display Humidity vs. Longitude (Eastern Hemisphere)**
+>> ### **Display Humidity vs. Longitude (Western Hemisphere)**
+> ## <br> **5.3: Cloudiness vs. Longitude**
+>> ### **Display Cloudiness vs. Longitude (Northern Hemisphere)**
+>> ### **Display Cloudiness vs. Longitude (Southern Hemisphere)**
+>> ### **Display Cloudiness vs. Longitude (Eastern Hemisphere)**
+>> ### **Display Cloudiness vs. Longitude (Western Hemisphere)**
+>> > ## <br> **5.4: Wind Speed vs. Longitude**
+>> ### **Display Wind Speed vs. Longitude (Northern Hemisphere)**
+>> ### **Display Wind Speed vs. Longitude (Southern Hemisphere)**
+>> ### **Display Wind Speed vs. Longitude (Eastern Hemisphere)**
+>> ### **Display Wind Speed vs. Longitude (Western Hemisphere)**
 
 ----
 
-## Table of Contents (VacationPy.ipynb)
+## Table of Contents (vacations.ipynb)
 
 ----
 
@@ -75,3 +108,9 @@
 > ## <br> **5.2: Find Tourism Attraction Locations**
 > ## <br> **5.3: Display Tourism Attraction Data Set**
 > ## <br> **5.4: Display Tourism Attraction Locations**
+
+----
+
+## Copyright
+
+Nicholas J. George © 2023. All Rights Reserved.
