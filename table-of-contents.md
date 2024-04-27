@@ -1,24 +1,22 @@
-
-
-# Weather Visualization for Vacations from APIs
+# Weather-Visualization-for-Vacations-from-APIs
 
 ----
 
-## Table of Contents (WeatherPy.ipynb)
+## Table of Contents (weather.ipynb)
 
 ----
 
 # <br><br> **Section 1: Weather Data Acquisition**
-> ## <br> **1.1: List of Cities**
-> ## <br> **1.2: Weather Data from List of Cities**
-> ## <br> **1.3: City Weather Data Set Records Count**
+> ## <br> **1.1: City List**
+> ## <br> **1.2: Weather Data from City List**
+> ## <br> **1.3: Records Count**
 > ## <br> **1.4: Display City Weather Data Set**
 > ## <br> **1.5: Display City Weather Locations**
-> ## <br> **1.6: Export to CSV File**
-> ## <br> **1.7: Data Import from CSV File**
+> ## <br> **1.6: Export City Weather Data to CSV File**
+> ## <br> **1.7: Import City Weather Data from CSV File**
 > ## <br> **1.8: Display Imported City Weather Data Set**
 > ## <br> **1.9: Display Imported City Weather Locations**
-# <br><br> **Section 2: Scatter Plots w/Regression**
+# <br><br> **Section 2: Scatter Plots**
 > ## <br>**2.1: Temperature vs. Latitude**
 >> ### **Scatter Plot**
 >> ### **Scatter Plot w/Regression**
