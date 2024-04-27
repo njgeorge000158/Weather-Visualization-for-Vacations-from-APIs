@@ -94,18 +94,6 @@ Jupyter Notebook, Pandas, Python 3.11.4
 
 #### main branch 
 
-|&rarr; [./logx_constants.py](./logx_constants.py)
-
-|&rarr; [./logx.py](./logx.py)
-
-|&rarr; [./mathx.py](./mathx.py)
-
-|&rarr; [./matplotlibx.py](./matplotlibx.py)
-
-|&rarr; [./pandasx_constants.py](./pandasx_constants.py)
-
-|&rarr; [./pandasx.py](./pandasx.py)
-
 |&rarr; [./README.md](./README.md)
 
 |&rarr; [./README.TECHNICAL.md](./README.TECHNICAL.md)
