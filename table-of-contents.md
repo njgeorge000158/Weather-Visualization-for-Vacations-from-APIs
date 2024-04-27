@@ -72,7 +72,7 @@
 >> ### **Display Cloudiness vs. Longitude (Southern Hemisphere)**
 >> ### **Display Cloudiness vs. Longitude (Eastern Hemisphere)**
 >> ### **Display Cloudiness vs. Longitude (Western Hemisphere)**
->> > ## <br> **5.4: Wind Speed vs. Longitude**
+> ## <br> **5.4: Wind Speed vs. Longitude**
 >> ### **Display Wind Speed vs. Longitude (Northern Hemisphere)**
 >> ### **Display Wind Speed vs. Longitude (Southern Hemisphere)**
 >> ### **Display Wind Speed vs. Longitude (Eastern Hemisphere)**
