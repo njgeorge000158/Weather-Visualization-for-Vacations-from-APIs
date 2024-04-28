@@ -34,15 +34,11 @@ python3 -m pip install citypy
 
 The IPython notebook, weather.ipynb, generates the CSV file, cities_weather.csv, which acts as input to vacations.ipynb.  These IPython Notebooks must have the following Python scripts in the same folder with it:
 
-logx_constants.py
-
 logx.py
 
 mathx.py
 
 matplotlibx.py
-
-pandasx_constants.py
 
 pandasx.py
 
@@ -66,7 +62,7 @@ To place the IPython notebook in Log Mode or Image Mode set the parameter for th
 
 #### Source code
 
-weather.ipynb, vacations.ipynb, logx_constants.py, logx.py, mathx.py, matplotlibx.py, pandasx_constants.py, pandasx.py, vacationsx.py, weather_api_keys.py, weather_constants.py, weatherx.py
+weather.ipynb, vacations.ipynb, logx.py, mathx.py, matplotlibx.py, pandasx.py, vacationsx.py, weather_api_keys.py, weather_constants.py, weatherx.py
 
 #### Input files
 
