@@ -24,7 +24,6 @@
 #******************************************************************************************/
 
 import logx
-import pandasx_constants
 import weather_constants
 
 import requests
@@ -96,14 +95,14 @@ def return_city_weather_styler \
                     'border': '1.3px solid red',
                     'color': 'blue'}) \
             .format \
-                ({'city': pandasx_constants.GENERAL_TEXT_FORMAT,
-                  'longitude': pandasx_constants.FLOAT_FORMAT,
-                  'latitude': pandasx_constants.FLOAT_FORMAT,
-                  'temperature': pandasx_constants.TEMPERATURE_FLOAT_FORMAT,
-                  'humidity': pandasx_constants.PERCENT_INTEGER_FORMAT,
-                  'cloudiness': pandasx_constants.PERCENT_INTEGER_FORMAT,
-                  'wind_speed': pandasx_constants.FLOAT_FORMAT,
-                  'country': pandasx_constants.GENERAL_TEXT_FORMAT}) \
+                ({'city': pandasx.GENERAL_TEXT_FORMAT,
+                  'longitude': pandasx.FLOAT_FORMAT,
+                  'latitude': pandasx.FLOAT_FORMAT,
+                  'temperature': pandasx.TEMPERATURE_FLOAT_FORMAT,
+                  'humidity': pandasx.PERCENT_INTEGER_FORMAT,
+                  'cloudiness': pandasx.PERCENT_INTEGER_FORMAT,
+                  'wind_speed': pandasx.FLOAT_FORMAT,
+                  'country': pandasx.GENERAL_TEXT_FORMAT}) \
             .highlight_max \
                 (subset = ['temperature', 'humidity', 'cloudiness', 'wind_speed'],
                  color = 'lime') \
@@ -152,11 +151,15 @@ def return_city_names_list():
 
     random_latitude_float_array \
         = np.random.uniform \
-            (latitude_range_float_tuple[0], longitude_range_float_tuple[1], size = 1500)
+            (latitude_range_float_tuple[0], 
+             longitude_range_float_tuple[1], 
+             size = weather_constants.CONSTANT_CITY_NAME_COUNT)
 
     random_longitude_float_array \
         = np.random.uniform \
-            (longitude_range_float_tuple[0], longitude_range_float_tuple[1], size = 1500)
+            (longitude_range_float_tuple[0], 
+             longitude_range_float_tuple[1], 
+             size = weather_constants.CONSTANT_CITY_NAME_COUNT)
 
 
     latitude_longitude_float_tuple_list \

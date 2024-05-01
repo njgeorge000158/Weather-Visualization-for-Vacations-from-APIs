@@ -10,7 +10,7 @@
  #
  #  File Description:
  #      This Python script, weather_constants.py, contains generic Python constants
- #      for completing tasks in the Jupyter Notebook, weather.ipynb.
+ #      for completing tasks in the Jupyter Notebooks, weather.ipynb and vacations.ipynb.
  #
  #
  #  Date            Description                             Programmer
@@ -34,6 +34,8 @@ CONSTANT_OPEN_WEATHERMAP_WEBSITE = 'http://api.openweathermap.org'
 CONSTANT_API_DATA_UNITS = 'imperial'
 
 CONSTANT_SET_OF_CITIES = 50
+
+CONSTANT_CITY_NAME_COUNT = 3000
 
 CONSTANT_WEATHER_DATA_FILE_PATH = './resources/cities_weather.csv'
 
