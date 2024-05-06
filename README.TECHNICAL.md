@@ -12,19 +12,19 @@ In addition to those modules, the Jupyter Notebook requires the following to exe
 
 Here are the requisite Terminal commands for the installation of these peripheral modules:
 
-python3 -m pip install holoviews
+pip3 install -U holoviews
 
-python3 -m pip install hvplot
+pip3 install -U hvplot
 
-python3 -m pip install geoviews
+pip3 install -U geoviews
 
-python3 -m pip install geopy
+pip3 install -U geopy
 
-python3 -m pip install aspose-words
+pip3 install -U aspose-words
 
-python3 -m pip install dataframe-image
+pip3 install -U dataframe-image
 
-python3 -m pip install citypy
+pip3 install -U citypy
 
 ----
 
@@ -32,7 +32,7 @@ python3 -m pip install citypy
 
 ----
 
-The IPython notebook, weather.ipynb, generates the CSV file, cities_weather.csv, which acts as input to vacations.ipynb.  These IPython Notebooks must have the following Python scripts in the same folder with it:
+The IPython notebook, weather.ipynb, generates the CSV file, cities_weather.csv, which acts as input to vacations.ipynb. These IPython Notebooks must have the following Python scripts in the same folder with it:
 
 logx.py
 
@@ -50,9 +50,9 @@ weather_constants.py
 
 weatherx.py
 
-If the folders, logs and images, are not present, an IPython notebook will create them.  The folder, resources, contains the output file from weather.ipynb, cities_weather.csv, which is the input file for vacations.ipynb; the folder, logs, contains log files from testing the IPython Notebooks; and the folder, images, has the PNG and HTML files of the IPython Notebooks' tables and plots.
+If the folders, logs and images, are not present, an IPython notebook will create them. The folder, resources, contains the output file from weather.ipynb, cities_weather.csv, which is the input file for vacations.ipynb; the folder, logs, contains log files from testing the IPython Notebooks; and the folder, images, has the PNG and HTML files of the IPython Notebooks' tables and plots.
 
-To place the IPython notebook in Log Mode or Image Mode set the parameter for the appropriate subroutine in coding cell #2 to True. If the program is in Log Mode, it writes log information to files in the folder, logs. If the program is in Image Mode, it writes all dataframes, hvplot maps, and matplotlib plots to PNG files in the folder, images.
+To place the IPython notebook in Log Mode or Image Mode set the parameter for the appropriate subroutine in coding cell #2 to True. In Log Mode, the notebook writes log information to files in the folder, logs. If the program is in Image Mode, it writes all dataframes, hvplot maps, and matplotlib plots to PNG files in the folder, images.
 
 ----
 
@@ -78,7 +78,7 @@ n/a
 
 #### Software
 
-Jupyter Notebook, Pandas, Python 3.11.4
+Jupyter Notebook, Pandas, Python 3.11.5
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
